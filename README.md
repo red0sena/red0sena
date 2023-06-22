@@ -13,7 +13,7 @@
  <br/>
   
 
-<a href="https://google.com"> <img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"> </a>
+<a href="www.linkedin.com/in/KyunghwanK1m"> <img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"> </a>
 <img src="https://img.shields.io/badge/tistory-000000?style=for-the-badge&logo=tistory&logoColor=white"> 
 <img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 <img src="https://img.shields.io/badge/gmail-gmail?style=for-the-badge&logo=gmail&logoColor=white">
