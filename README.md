@@ -10,11 +10,11 @@
   
 ####  Contact
   
- <br/>
-  
+ 
+
 
 <a href="https://www.linkedin.com/in/kyunghwank1m/"> <img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"> </a>
-<img src="https://img.shields.io/badge/tistory-000000?style=for-the-badge&logo=tistory&logoColor=white"> 
+<a href="https://hongsena.tistory.com/"> <img src="https://img.shields.io/badge/tistory-000000?style=for-the-badge&logo=tistory&logoColor=white"> </a>
 [<img src="https://img.shields.io/badge/mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">](mailto:bryan9801@kookmin.ac.kr)
 
 </div>
